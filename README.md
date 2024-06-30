@@ -2,7 +2,7 @@
 
 A simple Contact Book application built with Python and Tkinter.
 
-![Contact Book Screenshot](images/Screenshot 2024-06-30 131605.png)
+![Description of Image](Screenshot 2024-06-30 131605.png)
 
 ## Features
 
